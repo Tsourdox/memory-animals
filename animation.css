@@ -1,0 +1,10 @@
+.fade {
+    z-index: -1;
+    opacity: 0;
+    transition: all 2s !important;
+}
+
+.show {
+    opacity: 1 !important;
+    font-size: 4em;
+}
