@@ -7,4 +7,4 @@ Enjoy the game.
 Animals are truly beautiful and innocent creatues - please treat them with respect!
 
 #
-**Try the game here: [In Memory of Animals]()**
+**Try the game here: [In Memory of Animals](https://tsourdox.github.io/memory-animals/)**
