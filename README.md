@@ -6,5 +6,7 @@ Enjoy the game.
 
 Animals are truly beautiful and innocent creatues - please treat them with respect!
 
+Why not try a plant based diet for a month? Take this **[Vegan Challange](http://challenge22.com)**.
+
 #
-**Try the game here: [In Memory of Animals](https://tsourdox.github.io/memory-animals/)**
+**Have fun playing the game: [In Memory of Animals](https://tsourdox.github.io/memory-animals/)**
