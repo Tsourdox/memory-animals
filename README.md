@@ -1,5 +1,5 @@
 # In Memory of Animals
-Is a Memory game made with animal emojis. It's created for any one who liks Memory and would like to give some toughts to the animals who has been mistreated by us humans.
+Is a Memory game made with animal emojis. It's created for anyone who liks the game Memory and would like to give some toughts to the animals who has been mistreated by us humans.
 Enjoy the game.
 
 🐝 🐛 🦋 🐷 🐥 🐢 🐬 🐭 🦁 🦊 🐠 🦔 🐶 🐗 🐙 🐑 🐴 🐼
